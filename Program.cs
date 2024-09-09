@@ -17,14 +17,13 @@ namespace degreeOfTwo
 
             while (isOpen)
             {
-                if (value < finalnumber)
+
+                finalnumber *= strterNumber;
+                degree++;
+
+                if (value <= finalnumber)
                 {
                     isOpen = false;
-                }
-                else
-                {
-                    finalnumber *= strterNumber;
-                    degree++;
                 }
             }
 
