@@ -1,0 +1,7 @@
+C:\Users\smail\source\repos\degreeOfTwo\degreeOfTwo\bin\Debug\degreeOfTwo.exe.config
+C:\Users\smail\source\repos\degreeOfTwo\degreeOfTwo\bin\Debug\degreeOfTwo.exe
+C:\Users\smail\source\repos\degreeOfTwo\degreeOfTwo\bin\Debug\degreeOfTwo.pdb
+C:\Users\smail\source\repos\degreeOfTwo\degreeOfTwo\obj\Debug\degreeOfTwo.csproj.AssemblyReference.cache
+C:\Users\smail\source\repos\degreeOfTwo\degreeOfTwo\obj\Debug\degreeOfTwo.csproj.CoreCompileInputs.cache
+C:\Users\smail\source\repos\degreeOfTwo\degreeOfTwo\obj\Debug\degreeOfTwo.exe
+C:\Users\smail\source\repos\degreeOfTwo\degreeOfTwo\obj\Debug\degreeOfTwo.pdb
